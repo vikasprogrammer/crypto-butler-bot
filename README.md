@@ -10,7 +10,7 @@ Simply talk to this bot [@crypto_butler_bot](!https://t.me/crypto_butler_bot) an
 
 You can run the bot locally or on a server. Its pretty simple. 
 
-I have used Laravel and [Botman Studio](!https://botman.io/2.0/botman-studio).
+I have used Laravel and [Botman Studio!](https://botman.io/2.0/botman-studio).
 
 1. Clone the repo
 2. edit the .env file with your bot token and database details. 
