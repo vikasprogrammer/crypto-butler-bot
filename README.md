@@ -4,7 +4,7 @@ A telegram bot which can monitor your exchange account and notify you changes li
 
 ## How to use?
 
-Simply talk to this bot [@crypto_butler_bot](!https://t.me/crypto_butler_bot) and follow the instructions, they are pretty self explainatory. 
+Simply talk to this bot [@crypto_butler_bot!](https://t.me/crypto_butler_bot) and follow the instructions, they are pretty self explainatory. 
 
 ## Run locally
 
